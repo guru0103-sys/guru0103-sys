@@ -1,16 +1,22 @@
-## Hi there 👋
+💫 About Me:
+I am currently a student.
+I work in ECE and Data Science field.
+I also like to work on hardwre projects, AI based, ML and many more.
 
-<!--
-**guru0103-sys/guru0103-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Gururajan Ganesh Babu) Pinterest Reddit Twitch X email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ Java JavaScript Python Cloudflare OpenStack Firebase Google Cloud React React Native Socket.io Django Bootstrap MongoDB MySQL MicrosoftSQLServer Firebase Adobe Adobe Acrobat Reader Adobe Creative Cloud Canva Blender NumPy Pandas TensorFlow Matplotlib Arduino Kubernetes Meta Power Bi Portfolio AMD Epic Games nVIDIA Steam Ubisoft Unity Riot Games PlayStation Network Unreal Engine Xbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
