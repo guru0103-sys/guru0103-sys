@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am currently a student.<br>I work in ECE and Data Science field.<br>I also like to work on hardwre projects, AI based, ML and many more.
+For further details visit my website: https://gururajan.lovable.app
 
 
 ## 🌐 Socials:
