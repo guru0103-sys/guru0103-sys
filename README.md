@@ -1,25 +1,115 @@
-# 💫 About Me:
-I am currently a student.<br>I work in ECE and Data Science field.<br>I also like to work on hardwre projects, AI based, ML and many more.
-For further details visit my website: https://gururajan.lovable.app
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · guru0103-sys</sub></p>
+<h1>Gururajan</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/808357927895040011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/01guru03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gururajan-ganesh-babu-014813323/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7wrEYRvcC) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/ironmang0103/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/gururajan01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rajanguru0103) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCksri9AYpZ7_Mqh8BLfN_pg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajanguru0103@gmail.com) 
+<p><a href="https://github.com/guru0103-sys">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/223498861?u=cd87f688a86f3abd1c9e738e38f697471ef5e8cf&amp;v=4" width="180" alt="Gururajan GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guru0103-sys&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guru0103-sys&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guru0103-sys&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>170 contributions · 23 active days</p></td>
+</tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guru0103-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=guru0103-sys&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>Proof at a glance</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>170</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Gururajan GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&repos=guru0103-sys%2FCircuit_Sense%2Cguru0103-sys%2FTARA-Rover%2Cguru0103-sys%2FKessler-Syndrome-%2Cguru0103-sys%2FMedvision_AI&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&repos=guru0103-sys%2FCircuit_Sense%2Cguru0103-sys%2FTARA-Rover%2Cguru0103-sys%2FKessler-Syndrome-%2Cguru0103-sys%2FMedvision_AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Gururajan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/guru0103-sys/Circuit_Sense">Circuit_Sense</a></h3>
+<p>AMDA proj</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/guru0103-sys/Circuit_Sense">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/guru0103-sys/TARA-Rover">TARA-Rover</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/guru0103-sys/Kessler-Syndrome-">Kessler-Syndrome-</a></h3><p>A selected public project.</p><p><sub>Rust · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/guru0103-sys/Medvision_AI">Medvision_AI</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Gururajan technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>97% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>0% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=guru0103-sys&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223498861%3Fu%3Dcd87f688a86f3abd1c9e738e38f697471ef5e8cf%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Gururajan contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/guru0103-sys">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Gururajan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
